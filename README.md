@@ -1,4 +1,4 @@
-# Edna-projects
+# Revenue Prediction model
 data science projects
 
 This model predicts revenue collected based on the tax collected between 2013 and 2017
